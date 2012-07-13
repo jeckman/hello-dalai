@@ -16,18 +16,18 @@ function hello_dalai_get_quotes() {
 the very purpose of religion is to control yourself, not to criticize others.  rather, we must criticize ourselves.
 sleep is the best meditation.
 my religion is very simple.  my religion is kindness.
-in the practice of tolerance, one’s enemy is the best teacher.
+in the practice of tolerance, one's enemy is the best teacher.
 happiness is not something ready-made.  it comes from your own actions.
-the main cause of suffering is egoistic desire for one’s own comfort and happiness.
-when you lose, don’t lose the lesson.
+the main cause of suffering is egoistic desire for one's own comfort and happiness.
+when you lose, don't lose the lesson.
 we can live without religion and meditation, but we cannot survive without human affection.
 learn the rules so you know how to break them properly.
-don’t let a little dispute injure a great friendship.
+don't let a little dispute injure a great friendship.
 remember that silence is sometimes the best answer.
-share your knowledge.  it’s a way to achieve immortality.
+share your knowledge.  it's a way to achieve immortality.
 judge your success by what you had to give up in order to get it.
 where ignorance is our master, there is no possibility of real peace.
-when you realize you’ve made a mistake, take immediate steps to correct it.
+when you realize you've made a mistake, take immediate steps to correct it.
 try not even to think of yourself as better than the humblest beggar.  you will look the same in your grave.
 knowledge is important, but much more important is the use toward which it is put.  this depends on the heart and mind of the one who uses it.
 wherever you are, your religious teaching must be there with you.
@@ -44,8 +44,8 @@ suffering increases your inner strength.  also, the wishing for suffering makes 
 on a daily basis, you must take more care of your mind than just money, money, money!
 world peace through hatred and force is impossible.
 to foster inner awareness, introspection, and reasoning is more efficient than meditation and prayer.
-the training of the mind is an art.  if this can be considered as art, one’s life is art.
-the ultimate authority must always rest with the individual’s own reason and critical analysis.
+the training of the mind is an art.  if this can be considered as art, one's life is art.
+the ultimate authority must always rest with the individual's own reason and critical analysis.
 what science finds to be nonexistent, we must accept as nonexistent; but what science merely does not find is a completely different matter… it is quite clear that there are many, many mysterious things.";
 
 	// Here we split it into lines
