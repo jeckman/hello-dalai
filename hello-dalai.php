@@ -46,7 +46,7 @@ world peace through hatred and force is impossible.
 to foster inner awareness, introspection, and reasoning is more efficient than meditation and prayer.
 the training of the mind is an art.  if this can be considered as art, one's life is art.
 the ultimate authority must always rest with the individual's own reason and critical analysis.
-what science finds to be nonexistent, we must accept as nonexistent; but what science merely does not find is a completely different matter… it is quite clear that there are many, many mysterious things.";
+what science finds to be nonexistent, we must accept as nonexistent; but what science merely does not find is a completely different matter . . . it is quite clear that there are many, many mysterious things.";
 
 	// Here we split it into lines
 	$hello_dalai_quotes = explode( "\n", $hello_dalai_quotes );
