@@ -52,7 +52,7 @@ what science finds to be nonexistent, we must accept as nonexistent; but what sc
 	$hello_dalai_quotes = explode( "\n", $hello_dalai_quotes );
 
 	// And then randomly choose a line
-	return wptexturize( $lyrics[ mt_rand( 0, count( $hello_dalai_quotes ) - 1 ) ] );
+	return wptexturize( $hello_dalai_quotes[ mt_rand( 0, count( $hello_dalai_quotes ) - 1 ) ] );
 }
 
 // This just echoes the chosen line, we'll position it later
