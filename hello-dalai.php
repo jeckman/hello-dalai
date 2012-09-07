@@ -5,7 +5,7 @@ Plugin URI: http://github.com/jeckman/hello-dalai
 Description: Based on a joke made on WP Late Night. Fork of Hello Dolly (http://wordpress.org/extend/plugins/hello-dolly/ ), but 
 with quotes from the Dalai Lama. 
 Author: John Eckman
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.openparenthesis.org/
 */
 

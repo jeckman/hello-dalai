@@ -1,7 +1,7 @@
 === Hello Dalai (Lama) ===
 Contributors: johneckman
 Requires at least: 3.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Based on a joke comment on WP Late Night. Copy of Hello Dolly where the lyrics
 are replaced with sayings from the Dalai Lama. 
