@@ -58,7 +58,7 @@ What science finds to be nonexistent, we must accept as nonexistent; but what sc
 // This just echoes the chosen line, we'll position it later
 function hello_dalai() {
 	$chosen = hello_dalai_get_quotes();
-	echo "<p id='dolly'>$chosen</p>";
+	echo "<p id='dalai'>$chosen</p>";
 }
 
 // Now we set that function up to execute when the admin_notices action is called
